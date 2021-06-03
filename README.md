@@ -13,4 +13,4 @@
 (https://github.com/alepalacio/hackademy-mayo-2021/blob/master/ejercicio2/index.js)
 
 **3.** Si tienes 2 arreglos (1 con nombres de equipos y otro con cantidad de torneos) debes de acomodarlos del equipo más ganador al menos ganador.
-(https://github.com/alepalacio/hackademy-mayo-2021/tree/master/ejercicio3)
+(https://github.com/alepalacio/hackademy-mayo-2021/blob/master/ejercicio3/index.js)
